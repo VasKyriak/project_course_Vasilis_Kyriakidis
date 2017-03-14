@@ -9,7 +9,7 @@ Final Scripts for Protein Structure Prediction Project
 
 3) The script under the name "TMH_struct_predictOptimEvaluVasKyr.py" is the one used for optimization and evaluation of the best parameteres, for plotting and for testing.
 
-4) The script under the name "TMH_struct_final_predictVasKyr.py" is the final predictor. It uses and input for the protein sequence file that has the ID of the protein and it's sequence and provides the predicted structure based on the training from the "TMH_Train_Model".
+4) The script under the name "TMH_struct_final_predictVasKyr.py" is the final predictor. It uses an input for the protein sequence file that has the ID of the protein and it's corresponding sequence and provides the predicted structure based on the training from the "TMH_Train_Model".
 
 For more information, if needed, contact me at keftes86@gmail.com
 
